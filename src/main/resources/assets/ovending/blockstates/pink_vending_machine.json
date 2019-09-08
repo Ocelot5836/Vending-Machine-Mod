@@ -1,0 +1,26 @@
+{
+	"forge_marker": 1,
+	"variants": {
+		"top": {
+			"true": {
+				"model": "ovending:pink_vending_machine_top"
+			},
+			"false": {
+				"model": "ovending:pink_vending_machine_bottom"
+			}
+		},
+		"facing": {
+			"north": {
+				"y": 180
+			},
+			"east": {
+				"y": 270
+			},
+			"south": {
+			},
+			"west": {
+				"y": 90
+			}
+		}
+	}
+}

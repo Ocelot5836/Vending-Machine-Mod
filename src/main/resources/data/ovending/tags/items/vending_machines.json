@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "ovending:white_vending_machine",
+    "ovending:orange_vending_machine",
+    "ovending:magenta_vending_machine",
+    "ovending:light_blue_vending_machine",
+    "ovending:yellow_vending_machine",
+    "ovending:lime_vending_machine",
+    "ovending:pink_vending_machine",
+    "ovending:gray_vending_machine",
+    "ovending:light_gray_vending_machine",
+    "ovending:cyan_vending_machine",
+    "ovending:purple_vending_machine",
+    "ovending:blue_vending_machine",
+    "ovending:brown_vending_machine",
+    "ovending:green_vending_machine",
+    "ovending:red_vending_machine",
+    "ovending:black_vending_machine"
+  ]
+}

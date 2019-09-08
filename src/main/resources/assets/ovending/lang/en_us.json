@@ -1,0 +1,44 @@
+{
+	"language.name": "English",
+	"language.region": "United States",
+	"language.code": "en_us",
+	"itemGroup.ovending": "Vending Machine Mod",
+	
+	"block.ovending.white_vending_machine": "White Vending Machine",
+	"block.ovending.orange_vending_machine": "Orange Vending Machine",
+	"block.ovending.magenta_vending_machine": "Magenta Vending Machine",
+	"block.ovending.light_blue_vending_machine": "Light Blue Vending Machine",
+	"block.ovending.yellow_vending_machine": "Yellow Vending Machine",
+	"block.ovending.lime_vending_machine": "Lime Vending Machine",
+	"block.ovending.pink_vending_machine": "Pink Vending Machine",
+	"block.ovending.gray_vending_machine": "Gray Vending Machine",
+	"block.ovending.light_gray_vending_machine": "Light Gray Vending Machine",
+	"block.ovending.cyan_vending_machine": "Cyan Vending Machine",
+	"block.ovending.purple_vending_machine": "Purple Vending Machine",
+	"block.ovending.blue_vending_machine": "Blue Vending Machine",
+	"block.ovending.brown_vending_machine": "Brown Vending Machine",
+	"block.ovending.green_vending_machine": "Green Vending Machine",
+	"block.ovending.red_vending_machine": "Red Vending Machine",
+	"block.ovending.black_vending_machine": "Black Vending Machine",
+	"block.ovending.vending_machine.edit": "The %s at %s,%s,%s is being edited by %s",
+	"block.ovending.vending_machine.use": "Right Click with a Vending Machine Key to bind it to your player",
+	
+	"item.ovending.desc": "Hold '%s' for more info",
+	
+	"item.ovending.key": "Vending Machine Key",
+	"item.ovending.key.bind": "Bound %s at %s,%s,%s to %s",
+	"item.ovending.key.invalid": "This %s belongs to %s",
+	
+	"item.ovending.vending_machine_window": "Vending Machine Window",
+	
+	"gui.ovending.vending_machine": "Vending Machine",
+	"gui.ovending.vending_machine.currency": "Currency",
+	"gui.ovending.vending_machine.full": "%s is full",
+	"gui.ovending.vending_machine.expensive": "Requires %s more %s(s)",
+	"gui.ovending.vending_machine.noStock": "Out of Stock",
+	"gui.ovending.vending_machine.free": "Free",
+	"gui.ovending.vending_machine.cost": "Costs %s %s(s)",
+	
+	"gui.ovending.vending_machine.edit.set": "Click with an Item to set it as the price",
+	"gui.ovending.vending_machine.edit.remove": "Click to Remove"
+}

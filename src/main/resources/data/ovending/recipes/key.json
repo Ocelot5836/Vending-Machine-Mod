@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "INN"
+    ],
+    "key": {
+        "N": {
+            "tag": "forge:nuggets/gold"
+        },
+        "I": {
+            "tag": "forge:ingots/gold"
+        }
+    },
+    "result": {
+        "item": "ovending:key"
+    }
+}

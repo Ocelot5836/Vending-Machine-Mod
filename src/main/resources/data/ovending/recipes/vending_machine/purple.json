@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "TRT",
+        "TGS",
+        "TCT"
+    ],
+    "key": {
+        "T": {
+            "item": "minecraft:purple_terracotta"
+        },
+        "G": {
+            "item": "ovending:vending_machine_window"
+        },
+        "R": {
+            "tag": "forge:dusts/redstone"
+        },
+        "S": {
+            "tag": "minecraft:buttons"
+        },
+        "C": {
+            "item": "minecraft:cyan_terracotta"
+        }
+    },
+    "result": {
+        "item": "ovending:purple_vending_machine"
+    },
+	"group": "vending_machines"
+}

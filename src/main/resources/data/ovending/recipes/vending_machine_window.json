@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GGG",
+        "GQG",
+        "GGG"
+    ],
+    "key": {
+        "G": {
+            "item": "minecraft:glass"
+        },
+        "Q": {
+            "tag": "forge:gems/quartz"
+        }
+    },
+    "result": {
+        "item": "ovending:vending_machine_window"
+    }
+}

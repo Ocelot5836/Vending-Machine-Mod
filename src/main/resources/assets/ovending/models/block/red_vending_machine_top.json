@@ -1,0 +1,6 @@
+{
+	"parent": "ovending:block/vending_machine_top",
+	"textures": {
+		"color": "block/red_terracotta"
+	}
+}

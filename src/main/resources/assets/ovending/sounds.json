@@ -1,0 +1,12 @@
+{
+	"block.vending_machine.vend": {
+		"category": "block",
+		"subtitle": "block.vending_machine.vend.subtitle",
+		"sounds": [
+			{
+				"name": "ovending:block/vending_machine/vend",
+				"stream": true
+			}
+		]
+	}
+}
